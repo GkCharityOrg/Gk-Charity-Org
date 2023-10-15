@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973201866190",
+    "project_id": "gk-charity-org",
+    "storage_bucket": "gk-charity-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973201866190:android:93deb7ed89a90a35ba7f9f",
+        "android_client_info": {
+          "package_name": "com.example.gk_educational_charity_org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973201866190-u9c44oteglb1ab9j1n8e9rcts7pdussp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhu1FEmSL-SAgjZaje6cXkLfDRag5SqJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973201866190-u9c44oteglb1ab9j1n8e9rcts7pdussp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
